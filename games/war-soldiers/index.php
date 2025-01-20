@@ -6,7 +6,7 @@
     <h1>War Soldiers</h1>
     <p>War Soldiers is an incredibly popular FPS, or First Person-Shooter, because of it's online nature, many people can very easily play it.</p>
     <div class="game-container">
-      <iframe id="game-frame" src="http://www.pacogames.com/webgl/war-soldiers/index.php" allowfullscreen></iframe>
+      <iframe id="game-frame" src="https://www.pacogames.com/multiplayer/war-of-soldiers" allowfullscreen></iframe>
     </div>
   </body>
 </html>

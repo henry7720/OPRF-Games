@@ -8,5 +8,6 @@
     <div class="game-container">
       <object data="/assets/swfs/happywheels.swf" width="1072" height="600"></object>
     </div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
   </body>
 </html>

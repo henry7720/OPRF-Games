@@ -13,5 +13,6 @@
         <param name="allowscriptaccess" value="always">
       </object>
     </div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
   </body>
 </html>

@@ -5,7 +5,7 @@
 <?php include "../../assets/includes/navbar.html"; ?>
     <h1>Elites</h1>
     <div class="game-container">
-      <iframe id="game-frame" src="https://elites.io/"></iframe>
+      <iframe id="game-frame" src="https://germs.io/"></iframe>
     </div>
   </body>
 </html>

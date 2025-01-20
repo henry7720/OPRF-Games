@@ -8,5 +8,6 @@
     <div class="game-container">
       <object data="/assets/swfs/impossiblequiz.swf" width="800" height="600"></object>
     </div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
   </body>
 </html>

@@ -7,5 +7,6 @@
     <div class="game-container">
       <object data="/assets/swfs/earthtaken2.swf" width="1050" height="600"></object>
     </div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
   </body>
 </html>

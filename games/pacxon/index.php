@@ -8,5 +8,6 @@
     <div class="game-container">
       <object data="/assets/swfs/pacxon.swf" width="800" height="582"></object>
     </div>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
   </body>
 </html>
