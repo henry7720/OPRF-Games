@@ -4,7 +4,7 @@ var flippedTable = document.getElementById("flipped-table");
 var hiddenLink = document.getElementById("wow");
 
 hiddenLink.addEventListener("click", function () {
-  window.location.href = "/games/";
+  window.location.href = "/";
 });
 
 flipTableCaption.addEventListener("click", function () {
@@ -15,6 +15,6 @@ flipTableCaption.addEventListener("click", function () {
 
 document.addEventListener("keydown", function (e) {
   if (e.keyCode === 75 && e.ctrlKey || e.keyCode === 75 && e.metaKey) {
-    window.location.href = "/games/";
+    window.location.href = "/";
   }
 });

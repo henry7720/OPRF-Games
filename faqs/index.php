@@ -44,26 +44,5 @@
         <li>Submit the form.</li>
       </ol>
     </article>
-    <br>
-    <article>
-      <h3>Question: How do I report a broken game?</h3>
-      <h3>Answer:</h3>
-      <ol>
-        <li>Hover over the "Support Forms" dropdown menu.</li>
-        <li>Click the "Broken Game" option.</li>
-        <li>Paste the broken game's URL into the form.</li>
-        <li>Submit the form.</li>
-      </ol>
-    </article>
-    <br>
-    <article>
-      <h3>Question: How do I view all of the games in the navigation bar?</h3>
-      <h3>Answer:</h3>
-      <ol>
-        <li>Hover over the "Games" dropdown menu.</li>
-        <li>Scroll down while hovering on the dropdown menu.</li>
-        <li>You should be able to see all of the game options.</li>
-      </ol>
-    </article>
   </body>
 </html>

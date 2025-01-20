@@ -10,7 +10,7 @@
     <meta name="theme-color" content="#336699">
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="OPRF Games">
-    <meta property="og:url" content="https://linearequations.gq/games/">
+    <meta property="og:url" content="https://games.henrycodes.xyz/">
     <meta property="og:type" content="website">
     <meta property="og:description" content="OPRF Games is an unblocked games website, created and maintained by school students. We try our best to catch the most popular and wanted games.">
     <meta property="og:image" content="https://linearequations.gq/assets/img/icon.png">
@@ -20,8 +20,8 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="OPRF Games">
     <meta name="twitter:description" content="OPRF Games is an unblocked games website, created and maintained by school students. We try our best to catch the most popular and wanted games.">
-    <meta name="twitter:url" content="https://linearequations.gq/games/">
-    <meta name="twitter:image" content="https://linearequations.gq/assets/img/icon.png">
+    <meta name="twitter:url" content="https://games.henrycodes.xyz/">
+    <meta name="twitter:image" content="https://games.henrycodes.xyz/assets/img/icon.png">
     <!-- Stylesheets, Favicons and Scripts -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i">

@@ -2,20 +2,14 @@ body {
   background-color: #fff;
 }
 
-/*
-#wow {
-  text-decoration: none;
-  color: #000;
-  cursor: text;
-}
-*/
-
 .formula {
   display: inline-block;
   vertical-align: middle;
 }
 
-table, th, td {
+table,
+th,
+td {
   border: 1px solid #000;
   border-collapse: collapse;
   text-align: center;

@@ -4,7 +4,7 @@
   <body>
 <?php include "../assets/includes/navbar.html"; ?>
     <h1>Site Embedder</h1>
-    <p>This is a site embedder in which you put in a URL, and it will embed that site; it may even unblock it. REQUIRES HTTP/HTTPS! If you want a permanent link to the URL (so it loads when you go to it, every time) copy the permanent link after entering a URL. It might not work on certain sites, but there's a good chance it will. The only way to find out is to try it. Download <a href="https://www.linearequations.cf/assets/downloads/site-embedder.html" download>portable version</a>.</p>
+    <p>This is a site embedder in which you put in a URL, and it will embed that site; it may even unblock it. REQUIRES HTTP/HTTPS! If you want a permanent link to the URL (so it loads when you go to it, every time) copy the permanent link after entering a URL. It might not work on certain sites, but there's a good chance it will. The only way to find out is to try it.</p>
     <div class="game-container">
       <iframe id="game-frame" src="/assets/frames/embedderdefault.html" allowfullscreen></iframe>
       <form id="unblock-form" autocomplete="off">
