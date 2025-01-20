@@ -65,13 +65,5 @@
         <li>You should be able to see all of the game options.</li>
       </ol>
     </article>
-<?php
-    #<br>
-    #<article>
-    #  <h3>Question: Why is the homepage/domain called Linear Equations?</h3>
-    #  <h3>Answer:</h3>
-    #  <p>This is to prevent the site from getting blocked at school(s) very quickly. Click <a href="https://prnt.sc/jh1oqh">here</a> to find the hidden link to the games page.</p>
-    #</article>
-?>
   </body>
 </html>
